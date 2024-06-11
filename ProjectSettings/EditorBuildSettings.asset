@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Oculus/SampleFramework/Usage/OVROverlay.unity
-    guid: d31b44aac77e1684d861792b23d46a8b
+    path: Assets/Scenes/ALEX_OVRSAMPLE.unity
+    guid: e92b6b4c4b5f8ed46b5c34af028aaeb1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
